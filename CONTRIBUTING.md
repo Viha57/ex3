@@ -1,0 +1,1 @@
+Thank you for your interest in contributing to this project! We welcome all contributions, whether it's fixing bugs, improving documentation, or adding new features. Please follow the guidelines below to ensure a smooth collaboration.
